@@ -1,0 +1,14 @@
+name: DrugUseByAge
+title: DrugUseByAge
+username:
+account: databull
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7952803
+bundleId: 6679675
+url: https://databull.shinyapps.io/DrugUseByAge/
+when: 1672266514.84402
+lastSyncTime: 1672266514.84404
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: images/Schermata 2022-12-28 alle 22.11.01.png|Presentation_Antonio.html|Presentation_Antonio.qmd

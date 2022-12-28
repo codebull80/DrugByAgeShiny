@@ -1,0 +1,49 @@
+---
+title: "readme"
+author: "Antonio Bulla"
+date: "2022-12-28"
+output: html_document
+---
+# Data Science-Shiny-Application-and-Reproducible-Pitch
+This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
+
+## Your Shiny Application
+
+Write a shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application.
+Deploy the application on Rstudio's shiny server
+Share the application link by pasting it into the provided text box
+Share your server.R and ui.R code on github
+The application must include the following:
+
+Some form of input (widget: textbox, radio button, checkbox, ...)
+Some operation on the ui input in sever.R
+Some reactive output displayed as a result of server calculations
+You must also include enough documentation so that a novice user could use your application.
+The documentation should be at the Shiny website itself. Do not post to an external link.
+The Shiny application in question is entirely up to you. However, if you're having trouble coming up with ideas, you could start from the simple prediction algorithm done in class and build a new algorithm on one of the R datasets packages. Please make the package simple for the end user, so that they don't need a lot of your prerequisite knowledge to evaluate your application. You should emphasize a simple project given the short time frame.
+
+## Your Reproducible Pitch Presentation
+
+OK, you've made your shiny app, now it's time to make your pitch. You get 5 slides (inclusive of the title slide) to pitch a your app. You're going to create a web page using Slidify or Rstudio Presenter with an html5 slide deck.
+
+## Here's what you need
+
+5 slides to pitch our idea done in Slidify or Rstudio Presenter
+Your presentation pushed to github or Rpubs
+A link to your github or Rpubs presentation pasted into the provided text box
+Your presentation must satisfy the following
+
+It must be done in Slidify or Rstudio Presenter
+It must be 5 pages
+It must be hosted on github or Rpubs
+It must contained some embedded R code that gets run when slidifying the document
+NOTE: Slidify is no longer compatible with with Rpubs. If you choose to use Slidify you must share your presentation using GitHub Pages.
+
+Notice to publish your slidify presentation to github or Rpubs, there's the publish command. This link outlines how to do it (it's one line).
+
+# Summary 
+
+The National Survey on Drug Use and Health (NSDUH) series (formerly titled National Household Survey on Drug Abuse) primarily measures the prevalence and correlates of drug use in the United States. The surveys are designed to provide quarterly, as well as annual, estimates. Information is provided on the use of illicit drugs, alcohol, and tobacco among members of United States households aged 12 and older. Questions included age at first use as well as lifetime, annual, and past-month usage for the following drug classes: marijuana, cocaine (and crack), hallucinogens, heroin, inhalants, alcohol, tobacco, and nonmedical use of prescription drugs, including pain relievers, tranquilizers, stimulants, and sedatives. The survey covered substance abuse treatment history and perceived need for treatment, and included questions from the Diagnostic and Statistical Manual (DSM) of Mental Disorders that allow diagnostic criteria to be applied. The survey included questions concerning treatment for both substance abuse and mental health-related disorders. Respondents were also asked about personal and family income sources and amounts, health care access and coverage, illegal activities and arrest record, problems resulting from the use of drugs, and needle-sharing. Questions introduced in previous administrations were retained in the 2012 survey, including questions asked only of respondents aged 12 to 17. These "youth experiences" items covered a variety of topics, such as neighborhood environment, illegal activities, drug use by friends, social support, extracurricular activities, exposure to substance abuse prevention and education programs, and perceived adult attitudes toward drug use and activities such as school work. Several measures focused on prevention-related themes in this section. Also retained were questions on mental health and access to care, perceived risk of using drugs, perceived availability of drugs, driving and personal behavior, and cigar smoking. Questions on the tobacco brand used most often were introduced with the 1999 survey. For the 2008 survey, adult mental health questions were added to measure symptoms of psychological distress in the worst period of distress that a person experienced in the past 30 days and suicidal ideation. In 2008, a split-sample design also was included to administer separate sets of questions (WHODAS vs. SDS) to assess impairment due to mental health problems. Beginning with the 2009 NSDUH, however, all of the adults in the sample received only the WHODAS questions. Background information includes gender, race, age, ethnicity, marital status, educational level, job status, veteran status, and current household composition.
+
+## Citation 
+United States Department of Health and Human Services. Substance Abuse and Mental Health Services Administration. Center for Behavioral Health Statistics and Quality. National Survey on Drug Use and Health, 2012. Inter-university Consortium for Political and Social Research [distributor], 2015-11-23. https://doi.org/10.3886/ICPSR34933.v3

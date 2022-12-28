@@ -8,7 +8,6 @@ download.file(fileUrl, "drug-use-by-age.csv", method="curl")
 d    <- read_csv("drug-use-by-age.csv", na = "-")
 ageclass <- d$age
 
-# Define UI for application that draws a histogram
 shinyUI(fluidPage(
   
   
