@@ -11,7 +11,7 @@ The National Survey on Drug Use and Health (NSDUH) series (formerly titled Natio
 
 The application is running on: [https://databull.shinyapps.io/DrugUseByAge/About this project](https://databull.shinyapps.io/DrugUseByAge/About%20this%20project)
 
-The Git repository:
+The Git repository: <https://github.com/codebull80/DrugByAgeShiny>
 
 This project develop an interface to the 2012 data of National Survey on Drug Use and Health.It automatically downloads data from the fivethirtyeight github repository <https://raw.githubusercontent.com/fivethirtyeight/data/master/drug-use-by-age/drug-use-by-age.csv> Then it performs some manipulations to tidy the dataset.
 
