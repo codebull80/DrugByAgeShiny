@@ -30,3 +30,5 @@ Just select the one age category to see the bar plots!
 ## Citation
 
 United States Department of Health and Human Services. Substance Abuse and Mental Health Services Administration. Center for Behavioral Health Statistics and Quality. National Survey on Drug Use and Health, 2012. Interuniversity Consortium for Political and Social Research \[distributor\], 2015-11-23. https://doi.org/10.3886/ICPSR34933.v3
+
+## Thank you!
