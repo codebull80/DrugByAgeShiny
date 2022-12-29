@@ -9,12 +9,11 @@ editor: visual
 
 The National Survey on Drug Use and Health (NSDUH) series (formerly titled National Household Survey on Drug Abuse) primarily measures the prevalence and correlates of drug use in the United States. The surveys are designed to provide quarterly, as well as annual, estimates. Information is provided on the use of illicit drugs, alcohol, and tobacco among members of United States households aged 12 and older.
 
-The application is running on
+The application is running on: [https://databull.shinyapps.io/DrugUseByAge/About this project](https://databull.shinyapps.io/DrugUseByAge/About%20this%20project)
 
-## About this project
+The Git repository:
 
-This project develop an interface to the 2012 data of National Survey on Drug Use and Health.It automatically downloads data from the fivethirtyeight github repository <https://raw.githubusercontent.com/fivethirtyeight/data/master/drug-use-by-age/drug-use-by-age.csv>
-Then it performs some manipulations to tidy the dataset.
+This project develop an interface to the 2012 data of National Survey on Drug Use and Health.It automatically downloads data from the fivethirtyeight github repository <https://raw.githubusercontent.com/fivethirtyeight/data/master/drug-use-by-age/drug-use-by-age.csv> Then it performs some manipulations to tidy the dataset.
 
 Two categories are analysed:
 
@@ -22,7 +21,7 @@ Two categories are analysed:
 
 -   "Median number of times a user in an age group used each substance in the past 12 months"
 
-## The interface 
+## The interface
 
 ![](images/Schermata%202022-12-28%20alle%2022.11.01.png)
 
